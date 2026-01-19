@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ironccc
-- 👀 I’m interested in movie,gaming and fitness.
-- 🌱 I’m currently learning C51 and STM32.
-- 💞️ I’m looking to collaborate on embedded development
 - 📫 How to reach me   ironccc@foxmail.com
 
 <!---
